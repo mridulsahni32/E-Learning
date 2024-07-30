@@ -1,0 +1,10 @@
+asgiref
+autopep8==1.6.0
+Django
+django-cleanup==6.0.0
+django-froala-editor==4.0.14
+Pillow
+pycodestyle==2.8.0
+sqlparse==0.4.2
+toml==0.10.2
+tzdata==2022.1
